@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello Azure from IW14A203 35018";
+echo "Hello AppServices from IW14A203 10";
